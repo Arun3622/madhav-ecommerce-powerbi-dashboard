@@ -62,11 +62,7 @@ All metrics are presented through clean and intuitive visualizations to ensure s
 
 ---
 
-## 📢 Contact
 
-For questions or collaboration opportunities:  
-📧 **salehub7@gmail.com**  
-📞 **+91 9372638064**
 
 ---
 
